@@ -2,8 +2,10 @@
 
 ゲームクライアントエンジニア志望
 
+### Hi there 👋(stmtk1さんからパクりました)
+
 <!--
-**piffett/piffett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**stmtk1/stmtk1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -16,3 +18,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/sizumita/posts.svg)](http://qiita.com/piffett)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/sizumita/contributions.svg)](http://qiita.com/piffett)
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/sizumita/followers.svg)](http://qiita.com/piffett)
+
+[![piffett's github stats](https://github-readme-stats.vercel.app/api?username=piffett)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piffett)](https://github.com/anuraghazra/github-readme-stats)
