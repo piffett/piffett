@@ -2,8 +2,7 @@
 
 ゲームクライアントエンジニア志望
 
-### Hi there 👋(stmtk1さんからパクりました)
-
+### Hi there
 <!--
 **stmtk1/stmtk1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
